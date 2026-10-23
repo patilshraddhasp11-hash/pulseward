@@ -1,0 +1,6 @@
+{
+  "name": "PulseWard - Clinical Monitoring & Health Records Platform",
+  "description": "Enterprise hospital patient vitals telemetry, medical records synchronization, role-based access, diagnostic slide viewer, staff management, and discharge billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
